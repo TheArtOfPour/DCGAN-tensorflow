@@ -70,7 +70,7 @@ After 6th epoch:
 
 After 10th epoch:
 
-![result4](assets/test_2016-01-27%2015:08:54.png)
+![result4](assets/test_2016-01-27%2015_08_54.png)
 
 ### Asian face dataset
 
